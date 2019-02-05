@@ -1,6 +1,6 @@
 <?php
 
-namespace dollaapp\Clipboard;
+namespace dollaapp;
 
 /**
  * Clipboard - perform clipboard operations in PHP
