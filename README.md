@@ -1,3 +1,4 @@
+# DEPRECATED: USE [THIS](https://github.com/asvvvad/clipboard) INSTEAD
 # Clipboard for PHP
 Provide copying and pasting to the Clipboard for PHP.
 
